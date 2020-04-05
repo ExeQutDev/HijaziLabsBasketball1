@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HijaziLabs.Basketball2.Interfaces\HijaziLabs.Basketball2.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>
